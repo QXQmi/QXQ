@@ -51,5 +51,3 @@ if __name__ == '__main__':
 
 
 
-git remote add origin https://github.com/QXQmi/QXQ.git
-
