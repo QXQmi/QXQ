@@ -19,7 +19,7 @@ def banner():
     ╚═════╝ ╚══════╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
 
                                             CVE-2023-44487 检测工具
-                                            author: 杨淳意
+                                            author: QXQ
                                             date: 2024.09.17
                                             version: 1.0
     """
@@ -91,4 +91,5 @@ def poc(target):
 
 
 if __name__ == '__main__':
+
     main()
